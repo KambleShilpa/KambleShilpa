@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KambleShilpa
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning core java.
-- 💞️ I’m looking to collaborate on core java and asp.net mvc applications
+- 🌱 I’m currently learning Spring Framework
+- 💞️ I’m looking to collaborate on java and asp.net mvc applications
 - 📫 Contact at: shilpakamble1996@gmail.com
 
 <!---
